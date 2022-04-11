@@ -9,7 +9,7 @@ module.exports = {
   projectName: 'start-docusaurus2',
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: '雙龍體育',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
